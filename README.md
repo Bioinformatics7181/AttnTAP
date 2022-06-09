@@ -1,7 +1,4 @@
-﻿readme
--------
-
-AttnTAP
+﻿AttnTAP
 ========
 
 AttnTAP: An attention-fused BiLSTM model used to predict TCR-peptide binding accuracy
@@ -154,7 +151,7 @@ The work is done!
 ```
 ## Contacts
 AttnTAP is actively maintained by Xinyang Qian & Fan Li, currently students at Xi'an Jiaotong University in the research group of Prof. Jiayin Wang.
-If you have any questions, please contact us by e-mail: qianxy@stu.xjtu.edu.cn/lifan0513@stu.xjtu.edu.cn.
+If you have any questions, please contact us by e-mail: qianxy@stu.xjtu.edu.cn / lifan0513@stu.xjtu.edu.cn.
 
 
 
