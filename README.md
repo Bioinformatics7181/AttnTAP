@@ -6,7 +6,7 @@ AttnTAP: An attention-fused BiLSTM model used to predict TCR-peptide binding acc
 
 AttnTAP is a dual-input deep learning framework for improving the prediction accuracy of TCR recognition of peptides. We employ a bi-directional LSTM (BiLSTM) model coupled with feature representations of embedding matrix and attention mechanism.
 
-![](Figure/AttnTAP.png)
+![](Figure/AttnTAP.tif)
 
 
 ## Content
