@@ -4,7 +4,7 @@
 AttnTAP: An attention-fused BiLSTM model used to predict TCR-peptide binding accuracy
 ------------------------------------------------------------------------
 
-AttnTAP is a dual-input deep learning framework for improving the prediction accuracy of TCR recognition of peptides. We employ a bi-directional LSTM (BiLSTM) model coupled with feature representations of embedding matrix and attention mechanism.
+In this study, we developed a dual-input deep learning framework combining bi-directional long short term memory (BiLSTM) and multi-layer perceptron (MLP), named AttnTAP, to extract TCR and peptide features separately and perform TCR-peptide binding prediction.
 
 ![](Figure/AttnTAP.png)
 
@@ -17,7 +17,7 @@ AttnTAP is a dual-input deep learning framework for improving the prediction acc
 - [Usage](#usage)
   - [Python package versions](#python-package-versions)
   - [Making predictions using the pre-trained model](#making-predictions-using-the-pre-trained-model)
-  - [Training DeepLION models](#training-deeplion-models)
+  - [Training AttnTAP models](#training-attntap-models)
 - [Contacts](#contacts)
 
 
@@ -69,7 +69,7 @@ AttnTAP is a dual-input deep learning framework for improving the prediction acc
 
 AttnTAP works perfectly in the following versions of the Python packages:
 
-    python          3.9.7
+    Python          3.9.7
     torch           1.11.0+cpu
     pandas          1.3.4
     numpy           1.20.3
